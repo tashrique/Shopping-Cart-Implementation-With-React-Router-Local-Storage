@@ -1,7 +1,7 @@
 # Project Title
 
 ## Description
-Brief description of what this project does.
+A simple practice website for React, React Router, and Local Storage Practice.
 
 ## Demo
 [Live Demo](https://strong-heliotrope-877916.netlify.app/)
